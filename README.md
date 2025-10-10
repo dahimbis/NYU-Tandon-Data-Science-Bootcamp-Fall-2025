@@ -42,7 +42,13 @@ This repository contains notes, exercises, and projects completed during the NYU
 - **Languages**: Python, SQL  
 - **Libraries**: NumPy, Pandas, Matplotlib, Seaborn  
 - **Databases**: SQLite / PostgreSQL (depending on bootcamp setup)  
-- **Environment**: Jupyter Notebooks  
+- **Environment**: Jupyter Notebooks
+
+- --
+## Final Project
+Together with my team, we selected a movie recommendation system.
+
+
 
 
 

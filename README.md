@@ -46,7 +46,7 @@ This repository contains notes, exercises, and projects completed during the NYU
 
 - --
 ## Final Project
-Together with my team, we selected a movie recommendation system.
+Together with my team, we selected a movie recommendation system project.
 
 
 

@@ -45,8 +45,11 @@ This repository contains notes, exercises, and projects completed during the NYU
 - **Environment**: Jupyter Notebooks
 
 - --
-## Final Project
-Together with my team, we selected a movie recommendation system project.
+## 🎬 Final Project: Movie Recommendation System
+Together with my team, our final project involves developing a movie recommendation system using the TMDB 5000 movie dataset.  
+The project combines **demographic**, **content-based**, and **collaborative filtering** techniques to suggest personalized movies.  
+We will perform data cleaning, feature analysis, and model evaluation to improve recommendation accuracy.  
+This project highlights the use of machine learning for personalized content discovery.
 
 
 

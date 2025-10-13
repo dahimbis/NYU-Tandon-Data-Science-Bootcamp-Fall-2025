@@ -50,7 +50,7 @@ Together with my team, our final project involves developing a movie recommendat
 The project combines **demographic**, **content-based**, and **collaborative filtering** techniques to suggest personalized movies.  
 We will perform data cleaning, feature analysis, and model evaluation to improve recommendation accuracy.  
 This project highlights the use of machine learning for personalized content discovery.
-
+Using the kaggle dataset
 
 
 

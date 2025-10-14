@@ -34,7 +34,15 @@ This repository contains notes, exercises, and projects completed during the NYU
 - Distribution analysis and outlier detection  
 - Correlation and relationships between variables  
 - Feature engineering basics  
-- Practical case studies  
+- Practical case studies
+
+### 5. Machine Learning Algorithms
+- Linear Regression
+- Classification
+- Convolutive Linear Networks (CNNS)
+- Decision Tree and Random Forests
+- K-Means Clustering
+  
 
 ---
 

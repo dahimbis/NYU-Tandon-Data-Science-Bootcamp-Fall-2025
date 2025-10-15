@@ -43,6 +43,8 @@ This repository contains notes, exercises, and projects completed during the NYU
 - Decision Tree and Random Forests
 - K-Means Clustering
 - Support Vector Machines (SVMS)
+- Principal Component Analysis (PCAs)
+
   
 
 ---

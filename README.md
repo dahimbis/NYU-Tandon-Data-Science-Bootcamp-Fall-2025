@@ -42,6 +42,7 @@ This repository contains notes, exercises, and projects completed during the NYU
 - Convolutive Linear Networks (CNNS)
 - Decision Tree and Random Forests
 - K-Means Clustering
+- Support Vector Machines (SVMS)
   
 
 ---

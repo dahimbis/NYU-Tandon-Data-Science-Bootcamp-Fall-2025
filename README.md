@@ -38,12 +38,13 @@ This repository contains notes, exercises, and projects completed during the NYU
 
 ### 5. Machine Learning Algorithms
 - Linear Regression
-- Logistic Classification
-- Convolutive Linear Networks (CNNS)
+- Logistic Regression
+- Convolutional Neural Networks (CNNS)
 - Decision Tree and Random Forests
 - K-Means Clustering
 - Support Vector Machines (SVMS)
 - Principal Component Analysis (PCAs)
+- KNN
 
   
 

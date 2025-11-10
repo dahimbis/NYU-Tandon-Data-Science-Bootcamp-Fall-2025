@@ -54,7 +54,7 @@ This repository contains notes, exercises, and projects completed during the NYU
 ## 🛠 Tools and Libraries
 - **Languages**: Python, SQL  
 - **Libraries**: NumPy, Pandas, Matplotlib, Seaborn  
-- **Databases**: SQLite / PostgreSQL (depending on bootcamp setup)  
+- **Databases**: SQLite / PostgreSQL 
 - **Environment**: Jupyter Notebooks
 
 - --

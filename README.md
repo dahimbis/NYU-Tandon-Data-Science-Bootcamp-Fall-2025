@@ -45,6 +45,7 @@ This repository contains notes, exercises, and projects completed during the NYU
 - Support Vector Machines (SVMS)
 - Principal Component Analysis (PCAs)
 - KNN
+- Binomial distribution
 
   
 

@@ -46,6 +46,7 @@ This repository contains notes, exercises, and projects completed during the NYU
 - Principal Component Analysis (PCAs)
 - KNN
 - Binomial distribution
+- Neural Networks 
 
   
 

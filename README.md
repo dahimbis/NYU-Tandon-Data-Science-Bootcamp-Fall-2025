@@ -14,7 +14,7 @@ This repository contains notes, exercises, and projects completed during the NYU
 - Introduction to object-oriented programming  
 
 ### 2. SQL Fundamentals
-- Basic queries: `SELECT`, `WHERE`, `ORDER BY`  
+- Basic queries: `SELECT`, `WHERE`, `ORDER BY`
 - Filtering and aggregations with `GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG`  
 - Table joins (`INNER`, `LEFT`, `RIGHT`, `FULL`)  
 - Subqueries and common table expressions (CTEs)  
@@ -40,13 +40,15 @@ This repository contains notes, exercises, and projects completed during the NYU
 - Linear Regression
 - Logistic Regression
 - Convolutional Neural Networks (CNNS)
-- Decision Tree and Random Forests
+- Decision Tree
+- Random Forests
 - K-Means Clustering
 - Support Vector Machines (SVMS)
 - Principal Component Analysis (PCAs)
 - KNN
 - Binomial distribution
-- Neural Networks 
+- Neural Networks
+- XGBoost
 
   
 

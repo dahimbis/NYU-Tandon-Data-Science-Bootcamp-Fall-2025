@@ -68,7 +68,8 @@ We will perform data cleaning, feature analysis, and model evaluation to improve
 This project highlights the use of machine learning for personalized content discovery.
 Using the Kaggle dataset -> https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-
+---
+View my Certificate of completion -> https://credentials.engineering.nyu.edu/9e5c5cbe-ab39-4e21-8a8e-9131bed1e630#acc.0eYckv1t
 
 
 
